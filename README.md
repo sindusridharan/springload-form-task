@@ -8,4 +8,3 @@ Flaticons: https://www.flaticon.com/ (Free)
 
 To run the project: clone and navigate to root of the project and execute `npm i`. Then run `npm start` to run locally. open the console window to look at the entered form values.
 
-Demo:
