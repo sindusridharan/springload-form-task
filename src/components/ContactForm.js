@@ -2,6 +2,16 @@ import React, { useState } from 'react';
 import { Formik, Form, Field } from 'formik';
 import { TextField } from './TextField';
 import { Checkbox } from 'formik-material-ui';
+import Bear from "../assets/images/bear.png";
+import Tiger from "../assets/images/tiger.png";
+import Snake from "../assets/images/snake.png";
+import Donkey from "../assets/images/donkey.png";
+import Blue from "../assets/images/blue.png";
+import Green from "../assets/images/green.png";
+import Red from "../assets/images/red.png";
+import Black from "../assets/images/black.png";
+import Brown from "../assets/images/brown.png";
+
 
 import * as Yup from 'yup';
 
@@ -42,23 +52,23 @@ import * as Yup from 'yup';
                     <div role="group" aria-labelledby="checkbox-group" >
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedColor" value="Blue" />
-                        <img src="/images/blue.png" alt="tiger" style={{width: "30px"}}/>
+                        <img src={Blue} alt="blue" style={{width: "30px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedColor" value="Green" />
-                        <img src="/images/green.png" alt="tiger" style={{width: "30px"}}/>
+                        <img src={Green} alt="green" style={{width: "30px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedColor" value="Red" />
-                        <img src="/images/red.png" alt="tiger" style={{width: "30px"}}/>
+                        <img src={Red} alt="red" style={{width: "30px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedColor" value="Black" />
-                        <img src="/images/black.png" alt="tiger" style={{width: "30px"}}/>
+                        <img src={Black} alt="black" style={{width: "30px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedColor" value="Brown" />
-                        <img src="/images/brown.png" alt="tiger" style={{width: "30px"}}/>
+                        <img src={Brown} alt="brown" style={{width: "30px"}}/>
                         </label>
                     </div>
                     <div>Animals</div>
@@ -66,19 +76,19 @@ import * as Yup from 'yup';
                     <div role="group" aria-labelledby="checkbox-group" >
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedAnimal" value="Bear" />
-                         <img src="/images/bear.png" alt="bear" style={{width: "40px"}}/>
+                         <img src={Bear} alt="bear" style={{width: "40px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedAnimal" value="Tiger" />
-                        <img src="/images/tiger.png" alt="tiger" style={{width: "40px"}}/>
+                        <img src={Tiger} alt="tiger" style={{width: "40px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedAnimal" value="Snake" />
-                        <img src="/images/snake.png" alt="snake" style={{width: "40px"}}/>
+                        <img src={Snake} alt="snake" style={{width: "40px"}}/>
                         </label>  &nbsp;
                         <label>
                         <Field component={Checkbox} type="checkbox" name="checkedAnimal" value="Donkey" />
-                        <img src="/images/donkey.png" alt="donkey" style={{width: "40px"}}/>
+                        <img src={Donkey} alt="donkey" style={{width: "40px"}}/>
                         </label>  &nbsp;
                     </div>
                     <div>
