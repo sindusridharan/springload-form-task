@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/springload-form-task/static/css/main.83acb7c9.chunk.css",
+    "main.js": "/springload-form-task/static/js/main.0917d291.chunk.js",
+    "main.js.map": "/springload-form-task/static/js/main.0917d291.chunk.js.map",
+    "runtime-main.js": "/springload-form-task/static/js/runtime-main.de618aae.js",
+    "runtime-main.js.map": "/springload-form-task/static/js/runtime-main.de618aae.js.map",
+    "static/css/2.4be38407.chunk.css": "/springload-form-task/static/css/2.4be38407.chunk.css",
+    "static/js/2.cfde8ddc.chunk.js": "/springload-form-task/static/js/2.cfde8ddc.chunk.js",
+    "static/js/2.cfde8ddc.chunk.js.map": "/springload-form-task/static/js/2.cfde8ddc.chunk.js.map",
+    "index.html": "/springload-form-task/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/springload-form-task/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.83acb7c9.chunk.css.map": "/springload-form-task/static/css/main.83acb7c9.chunk.css.map",
+    "static/js/2.cfde8ddc.chunk.js.LICENSE.txt": "/springload-form-task/static/js/2.cfde8ddc.chunk.js.LICENSE.txt",
+    "static/media/contact.4d5effc0.jpg": "/springload-form-task/static/media/contact.4d5effc0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de618aae.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.cfde8ddc.chunk.js",
+    "static/css/main.83acb7c9.chunk.css",
+    "static/js/main.0917d291.chunk.js"
+  ]
+}
