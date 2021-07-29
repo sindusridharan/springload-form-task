@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/springload-form-task/static/css/main.83acb7c9.chunk.css",
-    "main.js": "/springload-form-task/static/js/main.0917d291.chunk.js",
-    "main.js.map": "/springload-form-task/static/js/main.0917d291.chunk.js.map",
+    "main.js": "/springload-form-task/static/js/main.bf237c8e.chunk.js",
+    "main.js.map": "/springload-form-task/static/js/main.bf237c8e.chunk.js.map",
     "runtime-main.js": "/springload-form-task/static/js/runtime-main.de618aae.js",
     "runtime-main.js.map": "/springload-form-task/static/js/runtime-main.de618aae.js.map",
     "static/css/2.4be38407.chunk.css": "/springload-form-task/static/css/2.4be38407.chunk.css",
@@ -12,13 +12,17 @@
     "static/css/2.4be38407.chunk.css.map": "/springload-form-task/static/css/2.4be38407.chunk.css.map",
     "static/css/main.83acb7c9.chunk.css.map": "/springload-form-task/static/css/main.83acb7c9.chunk.css.map",
     "static/js/2.cfde8ddc.chunk.js.LICENSE.txt": "/springload-form-task/static/js/2.cfde8ddc.chunk.js.LICENSE.txt",
-    "static/media/contact.4d5effc0.jpg": "/springload-form-task/static/media/contact.4d5effc0.jpg"
+    "static/media/bear.e0926496.png": "/springload-form-task/static/media/bear.e0926496.png",
+    "static/media/contact.4d5effc0.jpg": "/springload-form-task/static/media/contact.4d5effc0.jpg",
+    "static/media/donkey.47837626.png": "/springload-form-task/static/media/donkey.47837626.png",
+    "static/media/snake.1920326d.png": "/springload-form-task/static/media/snake.1920326d.png",
+    "static/media/tiger.20cb09a3.png": "/springload-form-task/static/media/tiger.20cb09a3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de618aae.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.cfde8ddc.chunk.js",
     "static/css/main.83acb7c9.chunk.css",
-    "static/js/main.0917d291.chunk.js"
+    "static/js/main.bf237c8e.chunk.js"
   ]
 }
